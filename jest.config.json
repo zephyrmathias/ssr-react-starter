@@ -1,0 +1,11 @@
+{
+  "setupFiles": [
+    "<rootDir>/tools/jest/setup.js"
+  ],
+  "snapshotSerializers": [
+    "enzyme-to-json/serializer"
+  ],
+  "moduleFileExtensions": [
+    "js", "json", "jsx"
+  ]
+}

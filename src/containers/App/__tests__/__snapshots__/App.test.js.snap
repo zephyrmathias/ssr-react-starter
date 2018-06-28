@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`containers: <App /> should render <App /> with routes properly 1`] = `
+<div>
+  <div>
+    <h1>
+      Header
+    </h1>
+    <a
+      aria-current="page"
+      className="active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      Home
+    </a>
+    <a
+      aria-current={null}
+      href="/posts"
+      onClick={[Function]}
+    >
+      Posts
+    </a>
+  </div>
+  <div>
+    App
+  </div>
+  <div>
+    fake component
+  </div>
+</div>
+`;

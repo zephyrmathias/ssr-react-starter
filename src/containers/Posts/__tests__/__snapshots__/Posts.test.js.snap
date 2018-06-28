@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Containers: <Posts /> should render correctly <Posts /> 1`] = `
+<div>
+  <h1>
+    POST
+  </h1>
+  <h2>
+    UserId: 
+    1
+  </h2>
+  <h4>
+    Id: 
+    2
+  </h4>
+  <h4>
+    Title: 
+    title
+  </h4>
+  <p>
+    body
+  </p>
+</div>
+`;
